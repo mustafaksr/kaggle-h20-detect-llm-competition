@@ -1,40 +1,21 @@
 # Kaggle H2O Detect LLM Competition Repository
 
-This repository contains the code and notebooks related to the Kaggle H2O Detect LLM competition. The project is organized into the following folders:
+This repository contains the code and notebooks related to the Kaggle H2O Detect LLM competition. The project is organized into the following folders and files:
 
-## 01-eda
-- **Description:** Use TSNE for embedding
-- **Notebook:** Kaggle Notebook | 1-Basic-EDA | Version 5
+## [01-eda](01-eda/1-basic-eda.ipynb)
 
+## [02-split-baseline](02-split-baseline/02-transformers-distilbert-split-n-baseline.ipynb)
 
-## 02-split-baseline
-- **Description:** Transformer DistilBERT Split and Baseline
-- **Notebook:** Kaggle Notebook | 02-Transformers-distilbert-split-n-baseline | Version...
+## [03-refactor](03-refactor/03-refactor.ipynb)
 
+## [04-Preprocess](04-Preprocess/preprocess.ipynb)
 
-## 03-refactor
-- **Description:** Refactor
-- **Notebook:** Kaggle Notebook | 03-Refactor | Version 2 | Fix parameters, add archi…
+## [05-Retrain](05-Retrain/04-retrain.ipynb)
 
-
-## 04-Preprocess
-- **Description:** Preprocess
-- **Notebook:** Kaggle Notebook | Preprocess | Version 0
-
-
-## 05-Retrain
-- **Description:** Retrain
-- **Notebook:** Kaggle Notebook | 04-Retrain | Version 1
-
-
-## README.md
-
-
+## [README.md](README.md)
 
 ## requirements.txt
-- **Description:** Upload requirements.txt
+- **Description:** requirements.txt
 
 
-## kaggle-h20-detect-llm-competition
-- **Description:** Repository of Kaggle H2O Detect LLM Competition
 
