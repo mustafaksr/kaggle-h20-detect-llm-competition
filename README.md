@@ -1,4 +1,4 @@
-# Kaggle H2O Detect LLM Competition Repository
+# [Kaggle H2O Detect LLM Competition Repository](https://www.kaggle.com/competitions/h2oai-predict-the-llm)
 
 This repository contains the code and notebooks related to the Kaggle H2O Detect LLM competition. The project is organized into the following folders and files:
 
