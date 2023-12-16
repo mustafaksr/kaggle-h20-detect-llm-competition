@@ -1,6 +1,7 @@
 # [Kaggle H2O Detect LLM Competition Repository](https://www.kaggle.com/competitions/h2oai-predict-the-llm)
 
 This repository contains the code and notebooks related to the Kaggle H2O Detect LLM competition. 
+
 **About description:** <em>"Delve deep into the world of Language Learning Models (LLMs)! The objective of this competition is to detect which out of 7 possible LLM models produced a particular output. With each model having its unique subtleties and quirks, can you identify which one generated the response?
 
 The challenge of pinpointing the origin LLM of a given output is not only intriguing but is also an area of spirited research. Understanding the nuances between different models allows for advancements in model differentiation, quality assessment, and potential applications in multiple sectors. Dive in, explore the intricacies, and contribute to this emerging area of study!"</em>
